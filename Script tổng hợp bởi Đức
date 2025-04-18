@@ -42,6 +42,16 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
-  end
-  })
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShimeKano/redz/refs/heads/main/Source.luau"))()
+    AddButton(Tab1o, {
+     Name = "bap-red",
+    Callback = function()
+	  local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/BapRed/main/BapRedHub"))()
+ 
+ end
+      })
