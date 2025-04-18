@@ -7,7 +7,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          },
         Key = {
         KeySystem = true,
-        Title = "Key System",
+        Title = "Đưa key đi pls",
         Description = "",
         KeyLink = "",
         Keys = {"11214Angry_Max"},
@@ -15,7 +15,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
         Notifications = true,
         CorrectKey = "Đợi síu:3",
        Incorrectkey = "ĐM ĐỊNH LỪA T AK",
-       CopyKeyLink = "Copied to Clipboard"
+       CopyKeyLink = "đã lấy link"
       }
     }
   })
